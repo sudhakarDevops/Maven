@@ -7,10 +7,6 @@
     <version>1.0</version>
     <name>hello</name>
     <url>https://github.com/boxfuse/boxfuse-sample-java-war-hello</url>
-    <distributionManagement>
-         <downloadUrl>http://mojo.codehaus.org/my-project</downloadUrl>
-         <status>deployed</status>
-    </distributionManagement>     
     <dependencies>
         <dependency>
             <groupId>javax.servlet</groupId>
